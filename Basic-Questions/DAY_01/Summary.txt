@@ -1,0 +1,39 @@
+Swap two numbers (with & without temp)
+
+Check even or odd
+
+Find largest of 3 numbers
+
+Count digits in a number
+
+Sum of digits
+
+Reverse a number ✅
+
+Palindrome number ✅
+
+Armstrong number ✅
+
+Strong number
+
+Perfect number
+
+Prime number check
+
+Print first N primes
+
+Factorial (iterative & recursive)
+
+Fibonacci series ✅
+
+GCD / LCM (Euclidean Algorithm) ✅
+
+Power of a number
+
+Leap year check
+
+Decimal to binary
+
+Binary to decimal
+
+Count trailing zeros in factorial
